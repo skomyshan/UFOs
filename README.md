@@ -21,3 +21,5 @@
 #### The user inputs the desired shape (disk), the change is detected, and the table is updated accordingly.
 ![Screen Shot 2022-03-10 at 3 50 42 PM 2](https://user-images.githubusercontent.com/96352751/157754190-ba5be2e4-a8a3-419f-9c94-dac492d3959a.png)
 
+### Summary
+Removing the button and implementing dynamic filtering looks cleaner and results more quickly. However, a dynamic filter with several search criterias can get messy. Using a drop down menu for selection would probably make inquieries more user friendly.
